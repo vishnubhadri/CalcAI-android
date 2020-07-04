@@ -1,5 +1,5 @@
 # CalcAI-android
-It is an android app to perform Mathamatical calculaton. It uses CalcIO.jar (https://github.com/vishnubhadri/Calc.IO).
+It is an android app to perform Mathematical calculation. It uses CalcIO.jar (https://github.com/vishnubhadri/Calc.IO).
 
 ## screenshots
 ### User can save his own formula that used later.
